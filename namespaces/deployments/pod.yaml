@@ -3,7 +3,7 @@ metadata:
    name: dep-1
 apiVersion: apps/v1
 spec:
-   replicas: 3
+   replicas: 4
    selector:
      matchLabels:
         pod: posts
